@@ -1,6 +1,6 @@
 # 👋 Welcome to GPBot!
 
-![Bot GIF](https://example.com/bot-gif.gif) <!-- Replace with your bot GIF URL -->
+![Bot GIF](https://example.com/bot-gif.gif)
 
 ---
 
@@ -23,8 +23,8 @@ If you have a project in mind, feel free to reach out!
 ## 📫 How to Reach Me
 Connect with me on:
 
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://facebook.com/iamgrandpa) <!-- Facebook SVG -->
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://youtube.com/@grandpaacademy) <!-- YouTube SVG -->
+[![Facebook](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/facebook.svg))](https://facebook.com/iamgrandpa) <!-- Facebook SVG -->
+[![YouTube](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/youtube.svg))](https://youtube.com/@grandpaacademy) <!-- YouTube SVG -->
 [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/team_grandpa) <!-- Telegram SVG -->
 
 
