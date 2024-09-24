@@ -25,10 +25,10 @@ Connect with me on:
 <div>
     <a href="https://facebook.com/iamgrandpa" target="_blank" style="text-decoration: none;">
         <button style="background-color: #3b5998; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">Facebook</button>
-    </a>
+    </a><br>
     <a href="https://youtube.com/grandpaacademy" target="_blank" style="text-decoration: none;">
         <button style="background-color: #FF0000; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">YouTube</button>
-    </a>
+    </a><br>
     <a href="https://t.me/team_grandpa" target="_blank" style="text-decoration: none;">
         <button style="background-color: #0088CC; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">Telegram</button>
     </a>
