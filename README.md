@@ -1,20 +1,21 @@
 # 👋 Welcome to GPBot!
 
-![Bot GIF](https://example.com/bot-gif.gif)
+![Bot GIF](https://upload.wikimedia.org/wikipedia/commons/c/cb/WhatsApp-BOT-Image-2_2.gif)
 
 ---
 
 ## 👀 About Me
-I’m a passionate bot developer dedicated to creating innovative and user-friendly bots that enhance digital experiences. 
+i am a copy paster :)
 
 ## 🌱 Currently Learning
-I'm diving into advanced machine learning techniques and natural language processing to make my bots even smarter!
+- secret 
 
 ## 💞️ Collaboration Opportunities
 I'm looking to collaborate on projects involving:
 - Chatbot development
 - Automation tools
-- Community-driven initiatives
+- web api
+  
 
 If you have a project in mind, feel free to reach out!
 
@@ -29,9 +30,6 @@ Connect with me on:
 [**TELEGRAM**](https://t.me/team_grandpa) <!-- Telegram SVG -->
 
 
-
-## ⚡ Fun Fact
-Did you know? The first chatbot, ELIZA, was created in the 1960s and could mimic human conversation surprisingly well for its time!
 
 ---
 
