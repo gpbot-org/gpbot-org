@@ -25,7 +25,8 @@ Connect with me on:
 
 [![Facebook](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/facebook.svg))](https://facebook.com/iamgrandpa) <!-- Facebook SVG -->
 [![YouTube](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/youtube.svg))](https://youtube.com/@grandpaacademy) <!-- YouTube SVG -->
-[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/team_grandpa) <!-- Telegram SVG -->
+<br><br>
+[**TELEGRAM**](https://t.me/team_grandpa) <!-- Telegram SVG -->
 
 
 
