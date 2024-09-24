@@ -23,8 +23,7 @@ If you have a project in mind, feel free to reach out!
 ## 📫 How to Reach Me
 Connect with me on:
 <div>
-    <a href="https://facebook.com/iamgrandpa" target="_blank" style="text-decoration: none;">
-        <button style="background-color: #3b5998; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">Facebook</button>
+    <a href="https://facebook.com/iamgrandpa" target="_blank" style="text-decoration: none; background-color: #3b5998; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">Facebook
     </a><br>
     <a href="https://youtube.com/grandpaacademy" target="_blank" style="text-decoration: none;">
         <button style="background-color: #FF0000; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">YouTube</button>
