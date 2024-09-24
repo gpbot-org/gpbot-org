@@ -1,6 +1,6 @@
 # 👋 Welcome to GPBot!
 
-![Bot GIF](https://example.com/bot-gif.gif) <!-- Replace with your bot GIF URL -->
+![Bot GIF](https://example.com/bot-gif.gif)
 
 ---
 
@@ -22,16 +22,11 @@ If you have a project in mind, feel free to reach out!
 
 ## 📫 How to Reach Me
 Connect with me on:
-<div>
-    <a href="https://facebook.com/iamgrandpa" target="_blank" style="text-decoration: none; background-color: #3b5998; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">Facebook
-    </a><br>
-    <a href="https://youtube.com/grandpaacademy" target="_blank" style="text-decoration: none;">
-        <button style="background-color: #FF0000; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">YouTube</button>
-    </a><br>
-    <a href="https://t.me/team_grandpa" target="_blank" style="text-decoration: none;">
-        <button style="background-color: #0088CC; color: white; border: none; padding: 10px 20px; margin: 5px; border-radius: 5px;">Telegram</button>
-    </a>
-</div>
+
+- [**Facebook**](https://facebook.com/yourprofile) 
+- [**YouTube**](https://youtube.com/yourchannel) 
+- [**Telegram**](https://t.me/yourusername) 
+
 
 
 ## ⚡ Fun Fact
@@ -41,4 +36,3 @@ Did you know? The first chatbot, ELIZA, was created in the 1960s and could mimic
 
 ### Explore My Work
 Feel free to explore my repositories and join me on this exciting journey in bot development! 🚀
-
