@@ -24,7 +24,7 @@ If you have a project in mind, feel free to reach out!
 ## 📫 How to Reach Me
 Connect with me on:
 
-[![Facebook](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/facebook.svg))](https://facebook.com/iamgrandpa) <!-- Facebook SVG -->
+[![Facebook](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/facebook.svg))](https://facebook.com/thegrandpaej) <!-- Facebook SVG -->
 [![YouTube](https://gist.githubusercontent.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/youtube.svg))](https://youtube.com/@grandpaacademy) <!-- YouTube SVG -->
 <br><br>
 [**TELEGRAM**](https://t.me/team_grandpa) <!-- Telegram SVG -->
