@@ -35,3 +35,6 @@ Connect with me on:
 
 ### Explore My Work
 Feel free to explore my repositories and join me on this exciting journey in bot development! 🚀
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpbot-org&show_icons=true&locale=en" alt="gpbot-org" /></p>
